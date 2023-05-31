@@ -19,3 +19,24 @@ ul li:last-child:hover {
   background-color: transparent;
   border: 1px solid #00afaa;
 }
+#banner {
+  background-image: url(../images/ima.jpg);
+}
+.discover-button {
+  background-color: #00afaa;
+  padding: 8px 15px;
+  border-radius: 50px;
+  border: 1px solid transparent;
+  transition: all 0.5s ease-in-out;
+}
+.discover-button:hover {
+  background-color: transparent;
+  border: 1px solid #00afaa;
+}
+.discover-button a {
+  color: white !important;
+  text-decoration: none;
+}
+.discover-button a:hover {
+  color: #00afaa !important;
+}
