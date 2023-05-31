@@ -22,21 +22,24 @@ ul li:last-child:hover {
 #banner {
   background-image: url(../images/ima.jpg);
 }
-.discover-button {
+.my-button {
   background-color: #00afaa;
   padding: 8px 15px;
   border-radius: 50px;
   border: 1px solid transparent;
   transition: all 0.5s ease-in-out;
 }
-.discover-button:hover {
+.my-button:hover {
   background-color: transparent;
   border: 1px solid #00afaa;
 }
-.discover-button a {
+.my-button a {
   color: white !important;
   text-decoration: none;
 }
-.discover-button a:hover {
+.my-button a:hover {
   color: #00afaa !important;
+}
+.content {
+  margin: 0;
 }
