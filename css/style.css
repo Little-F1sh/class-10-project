@@ -43,3 +43,21 @@ ul li:last-child:hover {
 .content {
   margin: 0;
 }
+.my-button-2 {
+  background-color: #268C3F;
+  padding: 8px 15px;
+  border-radius: 50px;
+  border: 1px solid transparent;
+  transition: all 0.5s ease-in-out;
+}
+.my-button-2:hover {
+  background-color: transparent;
+  border: 1px solid #268C3F;
+}
+.my-button-2 a {
+  color: white !important;
+  text-decoration: none;
+}
+.my-button-2 a:hover {
+  color: #268C3F !important;
+}
