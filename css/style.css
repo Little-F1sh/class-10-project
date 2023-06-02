@@ -61,3 +61,10 @@ ul li:last-child:hover {
 .my-button-2 a:hover {
   color: #268C3F !important;
 }
+.footer-lo {
+  list-style: none;
+}
+.footer-lo li a {
+  text-decoration: none;
+  color: white;
+}
